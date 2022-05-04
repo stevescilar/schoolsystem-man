@@ -8,8 +8,8 @@ from django.db import models
 # exam module
 # Fee Module
 
-class Student(models.Model):
-    first_name = models.CharField(max_length=50)
-    middle_name = models.CharField(max_length=50)
-    sirname = models.CharField(max_length=50)
+# class Student(models.Model):
+#     first_name = models.CharField(max_length=50)
+#     middle_name = models.CharField(max_length=50)
+#     sirname = models.CharField(max_length=50)
     
